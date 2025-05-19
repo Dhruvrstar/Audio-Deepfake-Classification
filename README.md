@@ -116,5 +116,3 @@ Visualization tools (e.g., TensorBoard or matplotlib) are used to plot training 
 This project is licensed under the MIT License. 
 
 ---
-
-Let me know if you'd like help creating a sample requirements.txt or Python scripts to go along with this!
